@@ -263,6 +263,7 @@ describe('src/action', () => {
 				multiDockerignore: true,
 				debug: true,
 				note: 'My useful note',
+				dockerfile: '',
 				tags: {
 					sha: 'fba0317620597271695087c168c50d8c94975a29',
 				},
